@@ -11,3 +11,5 @@ wheels/
 .env
 /data
 /apps/.ipynb_checkpoints
+test*.*
+apps/new.ipynb
