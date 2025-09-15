@@ -1,0 +1,11 @@
+[project]
+name = "spark-exmaple"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastf1>=3.6.1",
+    "ipykernel>=6.30.1",
+    "pyspark>=4.0.1",
+]
